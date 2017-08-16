@@ -1,2 +1,2 @@
 # Instacart-Kaggle
-Kaggle's instacart competition final code (Top 19%)
+This repository is for Kaggle's instacart competition to predict what are all the products that will be reordered in the users next order. With Fabiens kernel in kaggle as the starter, I started this competition and added more number of features and tuned the model to gain a good position in the leaderboard. After using the F1 optimization kernel I even reached within 8% of the leaderboard with 5 days to go. But couldn't maintain that position and I was able to make little improvement towards the last few days and ended the competition within the top 20%. I am glad with my effort being a novice in data sceince
